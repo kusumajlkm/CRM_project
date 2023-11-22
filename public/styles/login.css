@@ -1,0 +1,50 @@
+form {
+	max-width: 45%;
+	margin: auto;
+}
+
+.form-control {
+    /* width: 65%; */
+    margin: auto;
+    
+}
+
+#register {
+    padding-top: 1rem;
+}
+
+a {
+    color: rgb(8, 7, 105);
+}
+
+.button {
+    font-size: 1.5rem;
+    color: white;
+    background:rgba(63, 144, 158, 0.4);
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url('https://cdn.create.vista.com/api/media/small/202379568/stock-photo-wooden-office-desk-computer-coffee-supplies-tabletop-top-view-space'); /* Update the path to your actual image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.top_margin {
+	  margin-top: 100px;
+      margin-right: 200px;
+}
+
+
+
+p {
+	margin-top: 0rem;
+	margin-bottom: 0.5rem;
+}
+
+.button {
+	margin-bottom: 1rem;
+}
